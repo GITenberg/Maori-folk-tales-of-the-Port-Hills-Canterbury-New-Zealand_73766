@@ -1,0 +1,28 @@
+_repo: Maori-folk-tales-of-the-Port-Hills-Canterbury-New-Zealand_73766
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cowan, James
+    gutenberg_agent_id: '2540'
+    url: http://www.gutenberg.org/2009/agents/2540
+description: ''
+gutenberg_issued: '2024-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73766'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/uc1.b4395462
+pgterms:marc905: 20200217104603cowan
+pgterms:marc906: '1923'
+pgterms:marc907: NZ
+production_note: Tim Lindell, Fiona Holmes and the Online Distributed Proofreading
+  Team at http://www.pgdp.net (This file was produced from images generously made
+  available by The HathiTrust Digital Library.)
+publication_note: '  $aNew Zealand :$bWhitcombe & Tombs Limited, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Maori folk-tales of the Port Hills, Canterbury, New Zealand
+url: http://www.gutenberg.org/ebooks/73766
