@@ -1,11 +1,16 @@
 _repo: Maori-folk-tales-of-the-Port-Hills-Canterbury-New-Zealand_73766
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73766-h/images/cover.jpg
 creator:
   author:
     agent_name: Cowan, James
     gutenberg_agent_id: '2540'
     url: http://www.gutenberg.org/2009/agents/2540
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73766#Maori-folk-tales-of-the-Port-Hills-Canterbury-New-Zealand
 gutenberg_issued: '2024-06-04'
 gutenberg_type: Text
 identifiers:
